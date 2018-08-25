@@ -8,9 +8,9 @@ var orm = {
     });
   },
 
-  insertOne: function(burger_name, callback){
-    connnection.query()
-  }
+  // insertOne: function(burger_name, callback){
+  //   connnection.query("INSERT INTO burgers SET ?")
+  // }
 
 };
 
